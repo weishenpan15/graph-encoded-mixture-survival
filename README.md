@@ -1,6 +1,6 @@
 # Introduction
 
-This is the public code of the submiited manuscript "Generalizability of a Machine Learning Model for Improving Utilization of Parathyroid Hormone-Related Peptide Testing Across Multiple Clinical Centers".
+This is the public code of the submiited manuscript "Identification of Predictive Subphenotypes for Clinical Outcomes Using Real World Data and Machine Learning".
 The following process shows how to run the method on an example dataset which is publicly available.
 
 ## 0. Create Environment and Install Libs:
